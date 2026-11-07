@@ -1,0 +1,9 @@
+[2026-11-07 11:39:16] NEW ORDER PS-1001
+  Customer : juan
+  Phone    : 9661754755
+  Account  : onyok
+  Source   : Facebook / Messenger
+  Job      : 10 pgs, B&W, Letter / Short, 1 copy
+  Amount   : ₱40.00
+  Status   : Pending
+------------------------------------------------------------
